@@ -1,0 +1,39 @@
+<head>
+    <link rel="stylesheet" href="/styles/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+
+<header class="<%= (locals.esHome) ? 'header-principal' : 'header-principal-1' %>">
+  
+  <% if (locals.esHome) { %>
+    <video autoplay muted loop id="video-fondo">
+      <source src="/videos/video-header-luz-de-lila.mp4" type="video/mp4">
+    </video>
+  <% } %>
+
+  <div class="<%= (locals.esHome) ? 'barra-superior' : 'barra-superior-1' %>">
+    
+    <a href="/">
+      <img src="/img/LUZDLILA.png" alt="Logo Luz de Lila">
+    </a>
+
+    <div class="barra-busqueda">
+        <input type="text" name="query" placeholder="Buscar productos...">
+        <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+    </div>
+
+    <div class="iconos-barra-derecha">
+      <a href="/carrito" title="Carrito de compras">
+        <i class="fa-solid fa-bag-shopping"></i>
+      </a>
+      <a href="/contacto" title="Información de contacto">
+        <i class="fa-solid fa-circle-info"></i>
+      </a>
+      <a href="/login" title="Usuario">
+        <i class="fa-solid fa-circle-user"></i>
+      </a>
+    </div>
+
+  </div>
+</header>

@@ -12,10 +12,12 @@ const administrador = {
 
 app.set('view engine', 'ejs');
 
-app.use(express.static('Public'));
+app.use(express.static('asset', {
+  extensions: ['css', 'js', 'jpg', 'png', 'mp4']
+}));
 
 app.get('/', (req, res) => {
-  res.render('pages/index', {administrador});
+    res.render('pages/index', { esHome: true });
 });
 
 app.listen(3000, () => {
