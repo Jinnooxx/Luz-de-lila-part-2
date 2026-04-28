@@ -1,0 +1,18 @@
+.tit {
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.admin{
+
+    color: rgb(59, 33, 94);
+    font-size: 37px;
+}
+
+.no-admin{
+
+    color: rgb(59, 33, 94);
+    font-size: 37px;
+}

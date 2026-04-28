@@ -1,0 +1,20 @@
+{
+  "name": "flora-divina-prot-express",
+  "version": "1.0.0",
+  "description": "E-commerce con Node.js y Express",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Jorge",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^5.0.1",
+    "express": "^4.22.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

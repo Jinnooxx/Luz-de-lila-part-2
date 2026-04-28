@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    
+    <title>My App</title>
+</head>
+<body>
+    <h1 class="titulo">Hola <%= administrador.name %></h1>
+
+    <% if(administrador.isAdmin) { %>
+        <div class="admin">Usted es un administrador.</div>
+    <% 
+    }
+    else { %>
+        
+        <div class="no-admin">Usted no es un administrador.</div>
+
+    <% } %>
