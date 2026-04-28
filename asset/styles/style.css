@@ -54,6 +54,8 @@
   height: 100px; 
   padding: 0 20px;
 }
+
+
 .barra-superior img, .barra-superior-1 img {
   width: 16rem;
   position: relative; 
@@ -80,10 +82,10 @@
   padding: 8px 12px;
   margin: 30px;
   border: none;
-  border-bottom: 2px solid #ab74f9;
+  border-bottom: 1px solid #ffffff;
   outline: none;
   background-color: transparent;
-  color: white;
+  color: rgb(255, 255, 255);
 
 }
 
@@ -98,7 +100,7 @@
 
   padding: 8px 12px;
   font-size: 25px;
-  color: #ab74f9;
+  color: #ffffff;
   border: none;
   background-color: transparent;
   cursor: pointer;
@@ -129,8 +131,8 @@
 
 .iconos-barra-derecha i{
 
-    font-size: 2rem;
-    color: #ab74f9;
+    font-size: 1.9rem;
+    color: #ffffff;
 
 }
 
