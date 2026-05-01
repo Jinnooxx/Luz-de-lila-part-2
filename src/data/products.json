@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "nombre": "Difusor Glossy Citrus",
+        "categoria": "Difusores Glossy",
+        "precio": 1500,
+        "descripcion": "Aroma cítrico para un ambiente fresco y revitalizante.",
+        "imagen": [
+            "A18C___DIFUSOR_DE_AMBIENTE_GLOSSY_CITRUS_c.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Difusor Glossy Higo De Horiente",
+        "categoria": "Difusores Glossy",
+        "precio": 1500,
+        "descripcion": "Aroma de higo de oriente para un ambiente cálido y acogedor.",
+        "imagen": [
+            "A18HI___DIFUSOR_DE_AMBIENTE_GLOSSY_HIGO_DE_ORIENTE_c.webp",
+            "A18_HO_d490cedd-3a53-42ca-b001-23428ebcaab6.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Difusor Glossy Lima Peonías",
+        "categoria": "Difusores Glossy",
+        "precio": 1500,
+        "descripcion": "Aroma de lima y peonías para un ambiente floral y refrescante.",
+        "imagen": [
+            "A18_LP_ff69b7ff-aa14-4a9e-846b-93e6ca435c9e.jpg",
+            "A18LP___DIFUSOR_DE_AMBIENTE_GLOSSY_LIMA_PEONIAS_c.webp"
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Difusor Glossy Mango Maracuyá",
+        "categoria": "Difusores Glossy",
+        "precio": 1500,
+        "descripcion": "",
+        "imagen": [
+            "A18_MM.jpg",
+            "A18MA___DIFUSOR_DE_AMBIENTE_GLOSSY_MANGO_MARACUYA_c.webp"
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Difusor Glossy Manzana Canela",
+        "categoria": "Difusores Glossy",
+        "precio": 1500,
+        "descripcion": "Aroma de manzana y canela donde tus ideas florecen.",
+        "imagen": [
+            "A18Z_DIFUSORDEAMBIENTEGLOSSYMANZANACANELA.jpg",
+            "A18Z_DIFUSORDEAMBIENTEGLOSSYMANZANACANELA_c.webp"
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Difusor Glossy Sandía Pepino",
+        "categoria": "Difusores Glossy",
+        "precio": 1500,
+        "descripcion": "Aroma de sandía y pepino para un ambiente fresco y revitalizante.",
+        "imagen": [
+            "A18_SP_a14340f5-391c-46a4-af52-b2380df12bcc.jpg",
+            "A18P___DIFUSOR_DE_AMBIENTE_GLOSSY_SANDIA_PEPINO_c.webp"
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "Difusor Oasis The Soul",
+        "categoria": "Difusores Oasis Collection",
+        "precio": 1500,
+        "descripcion": "Aroma de la colección Oasis The Soul para un ambiente relajante y armonioso.",
+        "imagen": [
+            "Oasis_Soul-Difusor-a_efadf6de-790f-443d-9815-09dee9269b93.webp",
+            "Oasis_Soul-Difusor-b_ff8cf4d7-6649-40e0-a2d0-473bbb086eeb.webp",
+            "Oasis_Soul-Difusor-d_76426fb5-af07-40d5-87cf-da8c3e4c6ee2.webp"
+        ]
+    },
+    {
+        "id": 8,
+        "nombre": "Difusor Oasis The Mind",
+        "categoria": "Difusores Oasis Collection",
+        "precio": 1500,
+        "descripcion": "Aroma de la colección Oasis The Mind para un ambiente único y sofisticado.",
+        "imagen": [
+            "Oasis_Mind-Difusor-a_3e878d8e-e0f8-4ed4-a703-ccafb866e3be.webp",
+            "Oasis_Mind-Difusor-b_9483c620-4967-4ee7-815d-4019434bd4b3.webp",
+            "Oasis_Mind-Difusor-d_5afe9dd9-0716-4bd2-a0b5-2ec1561a9761.webp",
+            "Oasis_Mind-Difusor-e_40e24e06-6f3c-481b-90ac-ecd3526f8c1d.webp"
+        ]
+    },
+    {
+        "id": 9,
+        "nombre": "Difusor Oasis The Body",
+        "categoria": "Difusores Oasis Collection",
+        "precio": 1500,
+        "descripcion": "Aroma de la colección Oasis The Mind para un ambiente único y sofisticado.",
+        "imagen": [
+            "Oasis_Body-Difusor-a_e64686f8-56b9-4745-9648-78656869b3a9.webp",
+            "Oasis_Body-Difusor-b_7fd96236-ce8f-45cd-ba3d-3dc35bd1a4b4.webp",
+            "Oasis_Body-Difusor-f_38b3edff-b999-4f8e-ac38-a089d807097b.webp"
+        ]
+    },
+    {
+        "id": 10,
+        "nombre": "Repuesto De Varillas Sintéticas Basic",
+        "categoria": "Repuesto De Varillas",
+        "precio": 1500,
+        "descripcion": "Repuesto de varillas sintéticas para difusores de ambiente, diseñado para proporcionar una difusión eficiente y duradera del aroma. Estas varillas están hechas de materiales sintéticos de alta calidad que permiten una absorción rápida y una liberación constante del aroma, asegurando que tu espacio se mantenga fragante durante más tiempo. Son fáciles de usar y compatibles con la mayoría de los difusores de ambiente, ofreciendo una solución práctica para mantener tu hogar u oficina perfumados sin complicaciones.",
+        "imagen": [
+            "AA006_Repuesto_de_varillas_Basic.webp"
+        ]
+    },
+    {
+        "id": 11,
+        "nombre": "Repuesto Para Difusor Oasis y Glossy",
+        "categoria": "Repuesto Para difusor",
+        "precio": 1500,
+        "descripcion": "Repuesto para difusor de ambiente de las colecciones Oasis y Glossy, diseñado para mantener la frescura y el aroma de tu espacio. Este repuesto es compatible con los difusores de ambas colecciones, asegurando una difusión eficiente y duradera del aroma. Fabricado con materiales de alta calidad, este repuesto garantiza una absorción rápida y una liberación constante del aroma, permitiéndote disfrutar de un ambiente fragante durante más tiempo. Es fácil de usar y proporciona una solución práctica para mantener tu hogar u oficina perfumados sin complicaciones.",
+        "imagen": [
+            "A51HI___REPUESTO_PARA_DIFUSOR_HIGO_DE_ORIENTE_c.webp",
+            "A51LP___REPUESTO_PARA_DIFUSOR_LIMA_PEONIAS_c.webp",
+            "A51LP_20__20REPUESTO_20PARA_20DIFUSOR_20LIMA_20PEONIAS.webp"
+        ]
+    },
+    {
+        "id": 12,
+        "nombre": "Velas Aromaticas 10 x 10 Cedro Verbena",
+        "categoria": "Velas Aromaticas",
+        "precio": 1500,
+        "descripcion": " Velas aromáticas de 10 x 10 cm con aroma a cedro y verbena, diseñadas para crear un ambiente acogedor y relajante. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a cedro aporta una sensación de calidez y confort, mientras que la verbena añade un toque fresco y revitalizante. Perfectas para decorar tu hogar u oficina, estas velas aromáticas son ideales para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
+        "imagen": [
+            "A05CV___VELA_AROMATICA_10X10_CEDRO_VERBENA_c.webp",
+            "A05CV_20__20VELA_20AROMATICA_2010X10_20CEDRO_20VERBENA.jpg"
+        ]
+    }
+]
