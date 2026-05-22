@@ -1,9 +1,36 @@
+   <%- include('../partials/head.ejs') %>
 
-<body>
 
-  <%- include('../partials/header') %>
-  <%- include('../partials/menu') %>
+   <body>
 
-  <script type="module" src="/js/main.js"></script>
+     <%- include('../partials/header') %>
+     <%- include('../partials/menu') %>
 
-</body>
+     <main class="main-content">
+       <section class="destacados-container">
+
+         <div class="products-grid">
+           <% if (typeof listaVelas !== 'undefined' && listaVelas.length > 0) { %>
+
+           <% listaVelas.forEach(vela => { %>
+           <article class="product-card">
+             <div class="product-image-container">
+               <img src="<%= vela.imagen %>" alt="<%= vela.nombre %>" class="product-img">
+             </div>
+
+
+           </article>
+           <% }) %>
+
+           <% } else { %>
+           <p class="no-products" style="color: #000000; text-align: center; width: 100%;">
+             No se encontraron productos disponibles.
+           </p>
+           <% } %>
+         </div>
+       </section>
+     </main>
+
+     <script type="module" src="/js/main.js"></script>
+
+   </body>
