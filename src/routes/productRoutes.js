@@ -8,5 +8,9 @@ router.get('/productos', productController.getAllProducts);
 
 router.get('/detalle/:id', productController.getProductById);
 
+router.get('/contacto', (req, res) => {
+    res.render('pages/contacto');
+});
+
 
 module.exports = router;
