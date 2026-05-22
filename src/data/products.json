@@ -7,7 +7,7 @@
         "precio": 1500,
         "descripcion": "Aroma cítrico para un ambiente fresco y revitalizante.",
         "imagen": [
-            "A18C___DIFUSOR_DE_AMBIENTE_GLOSSY_CITRUS_c.jpg"
+            "../../asset/img/products/Difusores De Ambientes/DIFUSOR GLOSSY/DIFUSOR GLOSSY CITRUS/18C___DIFUSOR_DE_AMBIENTE_GLOSSY_CITRUS_c.jpg"
         ]
     },
     {
@@ -93,10 +93,10 @@
         "destacado": true,
         "descripcion": "Aroma de la colección Oasis The Mind para un ambiente único y sofisticado.",
         "imagen": [
-            "Oasis_Mind-Difusor-a_3e878d8e-e0f8-4ed4-a703-ccafb866e3be.webp",
-            "Oasis_Mind-Difusor-b_9483c620-4967-4ee7-815d-4019434bd4b3.webp",
-            "Oasis_Mind-Difusor-d_5afe9dd9-0716-4bd2-a0b5-2ec1561a9761.webp",
-            "Oasis_Mind-Difusor-e_40e24e06-6f3c-481b-90ac-ecd3526f8c1d.webp"
+            "/img/products/Difusores De Ambientes/DIFUSOR OASIS COLLECTION/oasis the mind difusor/Oasis_Mind-Difusor-a_3e878d8e-e0f8-4ed4-a703-ccafb866e3be.webp",
+            "/img/products/Difusores De Ambientes/DIFUSOR OASIS COLLECTION/oasis the mind difusor/Oasis_Mind-Difusor-b_9483c620-4967-4ee7-815d-4019434bd4b3.webp",
+            "/img/products/Difusores De Ambientes/DIFUSOR OASIS COLLECTION/oasis the mind difusor/Oasis_Mind-Difusor-d_5afe9dd9-0716-4bd2-a0b5-2ec1561a9761.webp",
+            "/img/products/Difusores De Ambientes/DIFUSOR OASIS COLLECTION/oasis the mind difusor/Oasis_Mind-Difusor-e_40e24e06-6f3c-481b-90ac-ecd3526f8c1d.webp"
         ]
     },
     {
