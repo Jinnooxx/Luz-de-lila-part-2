@@ -16,7 +16,7 @@ const getProductById = (id) => {
 
 const getProductCat = (cat) => {
 const products = getAllProducts();
-return products.filter(product => product.categoria === cat)
+return products.filter(product => product.categoria === cat);
 
 }
 
