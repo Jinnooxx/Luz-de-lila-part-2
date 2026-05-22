@@ -54,10 +54,16 @@ const getProductHome = (req, res) => {
     res.status(404).render('error404'); 
   }
 }
+
+
+const getContacto = (req, res) => {
+    res.render('pages/contacto');
+};
 module.exports = {
   getAllProducts,
   getProductById,
   getProductCategory,
   getProductHome,
+  getContacto
   
 };
