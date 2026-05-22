@@ -453,3 +453,182 @@
   color: #FF00FF;
   text-shadow: 0 0 10px #FF00FF;
 }
+
+
+/* ========= LOGIN PAGE - GLASSMORPHISM ========= */
+
+/* Modificación para que el header en login ocupe toda la pantalla */
+.header-principal-login {
+  height: 100vh; /* Full screen */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Oscurecemos un poquito el video solo en login para leer mejor los textos */
+.header-principal-login::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 1;
+}
+
+.login-main {
+  position: relative;
+  z-index: 10; /* Sobre el video y el oscurecimiento */
+  width: 100%;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+/* Caja principal con EFECTO VIDRIO TRANSPARENTE */
+.login-container {
+  width: 100%;
+  max-width: 400px;
+  padding: 3rem;
+  background: rgba(255, 255, 255, 0.05); /* Efecto vidrio como tus product-cards */
+  border: 1px solid rgba(255, 255, 255, 0.1); 
+  backdrop-filter: blur(8px); /* Esmerilado un poco más fuerte para el formulario */
+  -webkit-backdrop-filter: blur(8px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+.login-header {
+  margin-bottom: 3rem;
+}
+
+.login-header .profile-icon {
+  width: 80px;
+  height: 80px;
+  color: rgb(198, 141, 251); /* Lila de la sombra de tu header */
+  margin-bottom: 1rem;
+}
+
+.login-header h2 {
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 1.5rem;
+}
+
+/* Estilos de Inputs (Rayitas) */
+.input-group {
+  position: relative;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5); /* Línea blanca semitransparente */
+  display: flex;
+  align-items: center;
+}
+
+.input-icon {
+  width: 20px;
+  height: 20px;
+  color: #cccccc; /* Gris claro como tus placeholders */
+  margin-right: 15px;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 10px 0;
+  border: none;
+  background: transparent;
+  color: #ffffff;
+  font-size: 1rem;
+  outline: none;
+}
+
+.input-group input::placeholder {
+  color: rgba(204, 204, 204, 0.7);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.9rem;
+}
+
+/* Brillo NEÓN fucsia cuando haces clic en el input */
+.input-group:focus-within {
+  border-bottom-color: #FF00FF;
+  transition: border-color 0.3s ease;
+}
+
+.input-group:focus-within .input-icon {
+  color: #FF00FF;
+  transition: color 0.3s ease;
+}
+
+/* Grupo de Opciones (Recordarme, Olvidé) */
+.options-group {
+  display: flex;
+  flex-direction: column; /* Esto los pone uno abajo del otro */
+  gap: 15px; /* Esto le da un pequeño espacio de separación entre ambos */
+  align-items: left; /* Esto los centra horizontalmente */
+  font-size: 0.9rem;
+  color: #cccccc;
+  margin-bottom: 3rem;
+}
+
+.remember-me {
+  display: flex;
+  align-items: left;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.remember-me input {
+  margin-right: 8px;
+  accent-color: #FF00FF; /* Color del checkbox fucsia */
+}
+
+.forgot-password {
+  color: #cccccc;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.forgot-password:hover {
+  color: #fff;
+  text-shadow: 0 0 5px rgb(198, 141, 251);
+}
+
+/* Botón de LOGIN con estilo Neón */
+.login-button {
+  width: 100%;
+  padding: 12px;
+  background-color: transparent;
+  border: 1px solid rgb(198, 141, 251); /* Lila claro */
+  color: #ffffff;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-bottom: 2rem;
+}
+
+.login-button:hover {
+  background-color: rgba(198, 141, 251, 0.2);
+  border-color: #FF00FF; /* Brillo fucsia */
+  text-shadow: 0 0 10px #FF00FF;
+  box-shadow: 0 0 15px rgba(255, 0, 255, 0.3);
+}
+
+/* Footer del Login */
+.login-footer p {
+  font-size: 1rem;
+  color: #cccccc;
+  letter-spacing: 1px;
+}
+
+.login-footer a {
+  color: rgb(198, 141, 251);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.login-footer a:hover {
+  color: #FF00FF;
+  text-shadow: 0 0 5px #FF00FF;
+}
