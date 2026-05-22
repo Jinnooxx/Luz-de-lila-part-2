@@ -4,7 +4,7 @@ const getAllProducts = (req, res) => {
   const products = productModels.getAllProducts(); 
   
  
-  res.render('pages/index', { listaVelas: products }); 
+  res.render('', { listaVelas: products }); 
 };
 
 const getProductById = (req, res) => {
