@@ -632,3 +632,19 @@
   color: #FF00FF;
   text-shadow: 0 0 5px #FF00FF;
 }
+
+/* Clase para ocultar las tarjetas de registro/recuperación */
+.hidden {
+  display: none !important;
+}
+
+/* Ajuste para que la columna de opciones quede ordenada verticalmente */
+.options-group {
+  display: flex;
+  flex-direction: column; 
+  gap: 15px; 
+  align-items: center; 
+  font-size: 0.9rem;
+  color: #cccccc;
+  margin-bottom: 3rem;
+}
