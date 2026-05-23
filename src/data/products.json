@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nombre": "Difusor Glossy Citrus",
-        "categoria": "Difusores De Ambiente",
+        "categoria": "Difusores",
         "Subcategoria": "Difusores De Ambiente Glossy",
         "precio": 1500,
         "descripcion": "Aroma cítrico para un ambiente fresco y revitalizante.",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "nombre": "Difusor Glossy Higo De Horiente",
-        "categoria": "Difusores De Ambiente",
+        "categoria": "Difusores",
         "Subcategoria": "Difusores De Ambiente Glossy",
         "precio": 1500,
         "descripcion": "Aroma de higo de oriente para un ambiente cálido y acogedor.",
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "nombre": "Difusor Glossy Lima Peonías",
-        "categoria": "Difusores De Ambiente",
+        "categoria": "Difusores",
         "Subcategoria": "Difusores De Ambiente Glossy",
         "precio": 1500,
         "descripcion": "Aroma de lima y peonías para un ambiente floral y refrescante.",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "nombre": "Difusor Glossy Mango Maracuyá",
-        "categoria": "Difusores De Ambiente",
+        "categoria": "Difusores",
         "Subcategoria": "Difusores De Ambiente Glossy",
         "precio": 1500,
         "descripcion": "",
@@ -50,7 +50,7 @@
     {
         "id": 5,
         "nombre": "Difusor Glossy Manzana Canela",
-        "categoria": "Difusores De Ambiente",
+        "categoria": "Difusores",
         "Subcategoria": "Difusores De Ambiente Glossy",
         "precio": 1500,
         "descripcion": "Aroma de manzana y canela donde tus ideas florecen.",
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "nombre": "Difusor Glossy Sandía Pepino",
-        "categoria": "Difusores De Ambiente",
+        "categoria": "Difusores",
         "Subcategoria": "Difusores De Ambiente Glossy",
         "precio": 1500,
         "descripcion": "Aroma de sandía y pepino para un ambiente fresco y revitalizante.",
@@ -74,7 +74,7 @@
     {
         "id": 7,
         "nombre": "Difusor Oasis The Soul",
-        "categoria": "Difusores De Ambiente",
+        "categoria": "Difusores",
         "Subcategoria": "Difusores De Ambiente Oasis",
         "precio": 1500,
         "destacado": true,
@@ -88,7 +88,7 @@
     {
         "id": 8,
         "nombre": "Difusor Oasis The Mind",
-        "categoria": "Difusores De Ambiente",
+        "categoria": "Difusores",
         "Subcategoria": "Difusores De Ambiente Oasis",
         "precio": 1500,
         "destacado": true,
@@ -103,7 +103,7 @@
     {
         "id": 9,
         "nombre": "Difusor Oasis The Body",
-        "categoria": "Difusores De Ambiente",
+        "categoria": "Difusores",
         "Subcategoria": "Difusores De Ambiente Oasis",
         "precio": 1500,
         "destacado": true,
@@ -139,7 +139,7 @@
     {
         "id": 12,
         "nombre": "Velas 10 x 10 Cedro Verbena",
-        "categoria": "Velas Aromaticas",
+        "categoria": "Velas",
         "Subcategoria": "Velas 10 x 10",
         "precio": 1500,
         "descripcion": " Velas aromáticas de 10 x 10 cm con aroma a cedro y verbena, diseñadas para crear un ambiente acogedor y relajante. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a cedro aporta una sensación de calidez y confort, mientras que la verbena añade un toque fresco y revitalizante. Perfectas para decorar tu hogar u oficina, estas velas aromáticas son ideales para momentos de relajación o para crear un ambiente special en cualquier ocasión.",
@@ -151,7 +151,7 @@
     {
         "id": 14,
         "nombre": "Velas Candelabro Gardenia",
-        "categoria": "Velas Aromaticas",
+        "categoria": "Velas",
         "Subcategoria": "Velas Candelabro",
         "precio": 1500,
         "descripcion": " Velas aromáticas en formato candelabro con aroma a gardenia, diseñadas para crear un ambiente elegante y fragante. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a gardenia aporta una sensación de frescura y sofisticación, ideal para decorar tu hogar u oficina. Perfectas para momentos especiales o para añadir un toque de elegancia a cualquier espacio, estas velas aromáticas en formato candelabro son una excelente opción para crear un ambiente acogedor y fragante.",
@@ -163,7 +163,7 @@
     {
         "id": 15,
         "nombre": "Velas Candelabro Magnolia Vainilla",
-        "categoria": "Velas Aromaticas",
+        "categoria": "Velas",
         "Subcategoria": "Velas Candelabro",
         "precio": 1500,
         "descripcion": "Velas aromáticas en formato candelabro con aroma a magnolia y vainilla, diseñadas para crear un ambiente cálido y acogedor. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a magnolia aporta una sensación de frescura floral, mientras que la vainilla añade un toque dulce y reconfortante. Perfectas para decorar tu hogar u oficina, estas velas aromáticas en formato candelabro son ideales para momentos especiales o para añadir un toque de calidez a cualquier espacio.",
@@ -175,7 +175,7 @@
     {
         "id": 16,
         "nombre": "Velas Candelabro Manzana Canela",
-        "categoria": "Velas Aromaticas",
+        "categoria": "Velas",
         "Subcategoria": "Velas Candelabro",
         "precio": 1500,
         "descripcion": " Velas aromáticas en formato candelabro con aroma a manzana y canela, diseñadas para crear un ambiente cálido y acogedor. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a manzana aporta una sensación de frescura frutal, mientras que la canela añade un toque especiado y reconfortante. Perfectas para decorar tu hogar u oficina, estas velas aromáticas en formato candelabro son ideales para momentos especiales o para añadir un toque de calidez a cualquier espacio.",
@@ -187,7 +187,7 @@
     {
         "id": 17,
         "nombre": "Velas Votiva Black Vetiver",
-        "categoria": "Velas Aromaticas",
+        "categoria": "Velas",
         "Subcategoria": "Velas Votiva",
         "precio": 1500,
         "descripcion": "Velas aromáticas en formato votiva con aroma a vetiver negro, diseñadas para crear un ambiente relajante y aromático. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a vetiver negro aporta una sensación de calma y tranquilidad, ideal para momentos de relajación o para crear un ambiente special en cualquier ocasión.",
@@ -199,7 +199,7 @@
     {
         "id": 18,
         "nombre": "Velas Votiva Green Matcha",
-        "categoria": "Velas Aromaticas",
+        "categoria": "Velas",
         "Subcategoria": "Velas Votiva",
         "precio": 1500,
         "descripcion": "Velas aromáticas en formato votiva con aroma a matcha verde, diseñadas para crear un ambiente relajante y aromático. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a matcha verde aporta una sensación de calma y tranquilidad, ideal para momentos de relajación o para crear un ambiente special en cualquier ocasión.",
@@ -211,7 +211,7 @@
     {
         "id": 19,
         "nombre": "Velas Votiva Sandía Pepino",
-        "categoria": "Velas Aromaticas",
+        "categoria": "Velas",
         "Subcategoria": "Velas Votiva",
         "precio": 1500,
         "descripcion": "Velas aromáticas en formato votiva con aroma a sandía y pepino, diseñadas para crear un ambiente fresco y revitalizante. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a sandía aporta una sensación de frescura frutal, mientras que el pepino añade un toque refrescante y revitalizante. Perfectas para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -223,7 +223,7 @@
     {
         "id": 20,
         "nombre": "Velas Votiva Tilo Bamboo",
-        "categoria": "Velas Aromaticas",
+        "categoria": "Velas",
         "Subcategoria": "Velas Votiva",
         "precio": 1500,
         "descripcion": "Velas aromáticas en formato votiva con aroma a tilo y bambú, diseñadas para crear un ambiente relajante y aromático. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a tilo aporta una sensación de calma y tranquilidad, mientras que el bambú añade un toque fresco y revitalizante. Perfectas para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -235,7 +235,7 @@
     {
         "id": 21,
         "nombre": "Tealights Black Vetiver",
-        "categoria": "Velas Aromaticas",
+        "categoria": "Velas",
         "Subcategoria": "Tealights",
         "precio": 1500,
         "descripcion": "Velas aromáticas en formato tealight con aroma a vetiver negro, diseñadas para crear un ambiente relajante y aromático. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a vetiver negro aporta una sensación de calma y tranquilidad, ideal para momentos de relajación o para crear un ambiente special en cualquier ocasión.",
@@ -247,7 +247,7 @@
     {
         "id": 22,
         "nombre": "Tealights Citrus",
-        "categoria": "Velas Aromaticas",
+        "categoria": "Velas",
         "Subcategoria": "Tealights",
         "precio": 1500,
         "descripcion": "Velas aromáticas en formato tealight con aroma a citrus, diseñadas para crear un ambiente fresco y revitalizante. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a citrus aporta una sensación de frescura y vitalidad, ideal para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -259,7 +259,7 @@
     {
         "id": 23,
         "nombre": "Tealights Sandía Pepino",
-        "categoria": "Velas Aromaticas",
+        "categoria": "Velas",
         "Subcategoria": "Tealights",
         "precio": 1500,
         "descripcion": "Velas aromáticas en formato tealight con aroma a sandía y pepino, diseñadas para crear un ambiente fresco y revitalizante. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a sandía aporta una sensación de frescura frutal, mientras que el pepino añade un toque refrescante y revitalizante. Perfectas para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -271,7 +271,7 @@
     {
         "id": 24,
         "nombre": "Tealights Vanilla",
-        "categoria": "Velas Aromaticas",
+        "categoria": "Velas",
         "Subcategoria": "Tealights",
         "precio": 1500,
         "descripcion": "Velas aromáticas en formato tealight con aroma a vainilla, diseñadas para crear un ambiente cálido y acogedor. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a vainilla aporta una sensación de calidez y confort, ideal para momentos de relajación o para crear un ambiente special en cualquier ocasión.",
@@ -283,7 +283,7 @@
     {
         "id": 25,
         "nombre": "Vela Grey Citrus",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "Grey Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas Grey con aroma a citrus, diseñadas para crear un ambiente fresco y revitalizante. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a citrus aporta una sensación de frescura y vitalidad, ideal para momentos de relajación o para crear un ambiente special en cualquier ocasión.",
@@ -295,7 +295,7 @@
     {
         "id": 26,
         "nombre": "Vela Grey Green Matcha",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "Grey Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas Grey con aroma a matcha verde, diseñadas para crear un ambiente cálido y acogedor. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a matcha verde aporta una sensación de calidez y confort, ideal para momentos de relajación o para crear un ambiente special en cualquier ocasión.",
@@ -307,7 +307,7 @@
     {
         "id": 27,
         "nombre": "Vela Grey Higo De Oriente",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "Grey Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas Grey con aroma a higo de oriente, diseñadas para crear un ambiente cálido y acogedor. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a higo de oriente aporta una sensación de calidez y confort, ideal para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -319,7 +319,7 @@
     {
         "id": 28,
         "nombre": "Vela Grey Menta",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "Grey Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas Grey con aroma a menta, diseñadas para crear un ambiente fresco y revitalizante. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a menta aporta una sensación de frescura y vitalidad, ideal para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -331,7 +331,7 @@
     {
         "id": 29,
         "nombre": "Vela Grey Lima Peonías",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "Grey Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas Grey con aroma a lima y peonías, diseñadas para crear un ambiente fresco y floral. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a lima aporta una sensación de frescura y vitalidad, mientras que el aroma a peonías añade un toque floral y delicado, ideal para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -343,7 +343,7 @@
     {
         "id": 30,
         "nombre": "Vela Grey Sandía Pepino",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "Grey Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas Grey con aroma a sandía y pepino, diseñadas para crear un ambiente fresco y revitalizante. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a sandía aporta una sensación de frescura frutal, mientras que el pepino añade un toque refrescante y revitalizante. Perfectas para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -355,7 +355,7 @@
     {
         "id": 31,
         "nombre": "Vela Grey Tilo Bamboo",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "Grey Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas Grey con aroma a tilo y bambú, diseñadas para crear un ambiente relajante y natural. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a tilo aporta una sensación de calidez y confort, mientras que el aroma a bambú añade un toque fresco y aromático, ideal para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -367,7 +367,7 @@
     {
         "id": 32,
         "nombre": "Vela Oasis The Body",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "Oasys Collection",
         "precio": 1500,
         "destacado": true,
@@ -383,7 +383,7 @@
     {
         "id": 33,
         "nombre": "Vela Oasis The Mind",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "Oasys Collection",
         "precio": 1500,
         "destacado": true,
@@ -399,7 +399,7 @@
     {
         "id": 34,
         "nombre": "Vela Oasis The Soul",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "Oasys Collection",
         "precio": 1500,
         "destacado": true,
@@ -415,7 +415,7 @@
     {
         "id": 35,
         "nombre": "Vela Handmade Musk Pepper",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "The Handmade Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas de la colección The Handmade Collection con aroma a musk pepper, diseñadas para crear un ambiente cálido y acogedor. Estas velas están hechas a mano con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a musk pepper aporta una sensación de calidez y confort, ideal para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -426,7 +426,7 @@
     {
         "id": 36,
         "nombre": "Vela Handmade Salpiqué Marrón Vainilla",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "The Handmade Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas de la colección The Handmade Collection con aroma a salpiqué marrón vainilla, diseñadas para crear un ambiente cálido y acogedor. Estas velas están hechas a mano con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a salpiqué marrón vainilla aporta una sensación de calidez y confort, ideal para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -439,7 +439,7 @@
     {
         "id": 37,
         "nombre": "Vela Handmade Velvet Fig",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "The Handmade Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas de la colección The Handmade Collection con aroma a velvet fig, diseñadas para crear un ambiente cálido y acogedor. Estas velas están hechas a mano con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a velvet fig aporta una sensación de calidez y confort, ideal para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -451,7 +451,7 @@
     {
         "id": 38,
         "nombre": "Vela Esperanza",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "The Menu Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas The Menu Collection Esperanza, diseñadas para crear un ambiente cálido y acogedor. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a esperanza aporta una sensación de calidez y confort, ideal para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -463,7 +463,7 @@
     {
         "id": 39,
         "nombre": "Vela Moonlight",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "The Menu Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas The Menu Collection Moonlight, diseñadas para crear un ambiente cálido y acogedor. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a moonlight aporta una sensación de calidez y confort, ideal para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -475,7 +475,7 @@
     {
         "id": 40,
         "nombre": "Vela The Menu Key Lima Tart",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "The Menu Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas The Menu Collection Key Lima Tart, diseñadas para crear un ambiente fresco y revitalizante. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a lima tart aporta una sensación de frescura y vitalidad, ideal para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -489,7 +489,7 @@
     {
         "id": 41,
         "nombre": "Vela The Menu Tobacco Wiskey",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "The Menu Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas The Menu Collection Tobacco Wiskey, diseñadas para crear un ambiente cálido y acogedor. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a tobacco wiskey aporta una sensación de calidez y confort, ideal para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",
@@ -502,7 +502,7 @@
     {
         "id": 42,
         "nombre": "Vela The Menu Higo Y Miel",
-        "categoria": "Velas Cera De Soja",
+        "categoria": "Velas",
         "Subcategoria": "The Menu Collection",
         "precio": 1500,
         "descripcion": "Velas aromáticas The Menu Collection Higo Y Miel, diseñadas para crear un ambiente cálido y acogedor. Estas velas están hechas con cera de alta calidad y mechas de algodón, lo que garantiza una combustión limpia y duradera. El aroma a higo y miel aporta una sensación de calidez y confort, ideal para momentos de relajación o para crear un ambiente especial en cualquier ocasión.",

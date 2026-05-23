@@ -735,3 +735,54 @@
     background: rgba(255,0,255,0.1); 
     box-shadow: 0 0 20px #FF00FF; 
     text-shadow: 0 0 10px #FF00FF; }  
+
+    /* ================= ACORDEÓN Y FILTROS ================= */
+.accordion-header {
+    background: transparent;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+    display: flex;
+    justify-content: center; /* Centra el texto como el resto de tu menú */
+    align-items: center;
+    gap: 15px; /* Separa la flecha del texto */
+    color: white;
+    font-size: 1.2rem; /* Ajustá este número si tu letra es más grande */
+    font-family: inherit; /* Copia tu fuente de los otros links */
+    text-transform: uppercase;
+    letter-spacing: 4px; /* Da ese espaciado elegante */
+    padding: 15px 0;
+}
+
+.accordion-content {
+    display: flex; /* Siguen ocultos hasta que hacés clic */
+    flex-direction: column;
+    align-items: center; /* Centra los sub-ítems */
+    gap: 15px;
+    padding: 10px 0 20px 0;
+}
+
+/* El JS le va a poner esta clase para abrirlo */
+.accordion-content.abierto {
+    display: flex; 
+}
+
+/* Estilo de los botones (Velas, Difusores...) */
+.filter-btn {
+    background: transparent;
+    border: none;
+    color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: inherit;
+}
+
+.filter-btn:hover, .filter-btn.activo {
+    color: #FF00FF;
+    text-shadow: 0 0 10px #FF00FF;
+    transform: scale(1.1); /* Hace un pequeño zoom en vez de moverse de costado */
+}
