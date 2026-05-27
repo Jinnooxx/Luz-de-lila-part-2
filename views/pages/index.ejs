@@ -18,16 +18,12 @@
                 <img src="<%= vela.imagen[0] %>" alt="<%= vela.nombre %>" class="product-img">
               </div>
 
-              <div class="product-info" style="text-align: center; margin: 15px 0;">
-                <h3 style="color: white; font-size: 1.1rem; margin-bottom: 5px;"><%= vela.nombre %></h3>
-                <p style="color: #FF00FF; font-weight: bold; font-size: 1.2rem;">$<%= vela.precio %></p>
+              <div class="product-info">
+                <h3 ><%= vela.nombre %></h3>
+                <p>$<%= vela.precio %></p>
               </div>
 
-              <button class="btn-agregar btn-agregar-neon" data-id="<%= vela.id %>" data-nombre="<%= vela.nombre %>" data-precio="<%= vela.precio %>">
-                Añadir al Carrito
-              </button>
-
-            </article>
+             </article>
           <% }) %>
 
         <% } else { %>

@@ -1,6 +1,5 @@
 
 export const menuInit = () => {
-    // 1. MENÚ HAMBURGUESA
     const menuButton = document.querySelector('#menu-btn');
     const menu = document.querySelector('#menu');
 
