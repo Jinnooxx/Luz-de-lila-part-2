@@ -1,0 +1,51 @@
+<%- include('../partials/head.ejs') %>
+
+<body>
+
+  <%- include('../partials/header') %>
+  <%- include('../partials/menu') %>
+
+  <main class="main-content">
+    <h2 class="titulo-carrito">Tu Carrito de Compras</h2>
+
+    <div class="carrito-grid">
+
+      <div class="productos-lista-compra">
+
+        <% if (productos.length === 0) { %>
+        <p class="carrito-vacio">Tu carrito está vacío.</p>
+        <% } else { %>
+
+        <% productos.forEach((item) => { %>
+        <div class="item-lista-carrito">
+          <div class="item-info">
+            <h4 class="item-nombre"><%= item.nombre %></h4>
+            <p class="item-precio">$<%= item.precio %> x <%= item.cantidad %></p>
+          </div>
+          <form action="/carrito/eliminar/<%= item.id %>" method="POST">
+            <button type="submit" class="btn-eliminar-producto">Eliminar</button>
+          </form>
+        </div>
+        <% }) %>
+
+        <% } %>
+
+      </div>
+
+      <aside class="resumen-compra glassmorphism">
+        <h3>Resumen del Pedido</h3>
+        <hr>
+
+        <div class="resumen-linea total-destacado">
+          <span>Total:</span>
+          <span>$<%= totalGeneral.toFixed(2) %></span>
+        </div>
+
+        <button class="neon-button btn-pagar-carrito">PROCEDER AL PAGO</button>
+        <a href="/" class="seguir-comprando">Seguir comprando</a>
+      </aside>
+
+    </div>
+  </main>
+
+</body>

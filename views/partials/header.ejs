@@ -21,15 +21,15 @@
 
       </button>
     </div>
-    <button id ="cart-btn">
+    <a href="/carrito" id="cart-btn">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" class="carrito-icon">
         <path d="M6 2h1.84a1 1 0 0 1 .97.76l1.38 5.52M4 7h17.5a1 1 0 0 1 .95 1.32l-2.1 6.3A2 2 0 0 1 18.44 16H8.56a2 2 0 0 1-1.95-1.57L4 4H2" />
-
         <circle cx="9" cy="20" r="1.5" fill="currentColor" />
-
         <circle cx="18" cy="20" r="1.5" fill="currentColor" />
       </svg>
-    </button>
+      
+      <span id="cart-counter" class="contador-carrito">0</span>
+    </a>
 
     <%- include('menu') %>
 

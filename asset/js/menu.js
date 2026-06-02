@@ -10,7 +10,6 @@ export const menuInit = () => {
         });
     }
 
-    // 2. ACORDEÓN DE CATEGORÍAS
     const btnCategorias = document.getElementById('btn-categorias');
     const listaCategorias = document.getElementById('lista-categorias');
     const iconoFlecha = document.getElementById('icono-flecha');

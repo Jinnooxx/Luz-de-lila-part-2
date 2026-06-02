@@ -6,6 +6,7 @@
   <%- include('../partials/menu') %>
 
   <main class="main-content">
+    <h2></h2>
     <section class="destacados-container">
 
       <div class="products-grid">
@@ -27,7 +28,7 @@
           <% }) %>
 
         <% } else { %>
-          <p class="no-products" style="color: #000000; text-align: center; width: 100%;">
+          <p>
             No se encontraron productos disponibles.
           </p>
         <% } %>
@@ -35,24 +36,7 @@
     </section>
   </main>
 
-  <div id="carrito-panel" class="carrito-sidebar glassmorphism">
-    <div class="cart-header">
-        <h2>Tu Carrito</h2>
-        <button id="cerrar-carrito">X</button>
-    </div>
-    
-    <div class="cart-items" id="lista-carrito">
-    </div>
-    
-    <div class="cart-footer">
-        <div class="cart-total-summary">
-            <span>Total:</span>
-            <span id="total-carrito">$0</span>
-        </div>
-        <button class="btn-finalizar-neon">FINALIZAR COMPRA</button>
-    </div>
-  </div>
-  
+
   <script type="module" src="/js/main.js"></script>
 
 </body>
